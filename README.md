@@ -8,6 +8,10 @@ So basically, you can log in using email and password or your Gihbub and Google 
 
 Then in the app you can browse and play movies as well as add them to your favorites and read brief descriptions on each one of them quickly.
 
+## Demo
+
+[Demo is here](https://netflix-clone-pi-nine.vercel.app/)
+
 ## Set Up
 
 If you clone teh repo you will need a few local environment variables
